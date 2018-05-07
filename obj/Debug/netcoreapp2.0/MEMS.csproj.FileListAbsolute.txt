@@ -1,0 +1,10 @@
+C:\Users\CoCO\Desktop\MEMS\bin\Debug\netcoreapp2.0\MEMS.deps.json
+C:\Users\CoCO\Desktop\MEMS\bin\Debug\netcoreapp2.0\MEMS.runtimeconfig.json
+C:\Users\CoCO\Desktop\MEMS\bin\Debug\netcoreapp2.0\MEMS.runtimeconfig.dev.json
+C:\Users\CoCO\Desktop\MEMS\bin\Debug\netcoreapp2.0\MEMS.dll
+C:\Users\CoCO\Desktop\MEMS\bin\Debug\netcoreapp2.0\MEMS.pdb
+C:\Users\CoCO\Desktop\MEMS\obj\Debug\netcoreapp2.0\MEMS.csproj.CoreCompileInputs.cache
+C:\Users\CoCO\Desktop\MEMS\obj\Debug\netcoreapp2.0\MEMS.AssemblyInfoInputs.cache
+C:\Users\CoCO\Desktop\MEMS\obj\Debug\netcoreapp2.0\MEMS.AssemblyInfo.cs
+C:\Users\CoCO\Desktop\MEMS\obj\Debug\netcoreapp2.0\MEMS.dll
+C:\Users\CoCO\Desktop\MEMS\obj\Debug\netcoreapp2.0\MEMS.pdb

@@ -1,0 +1,20 @@
+{
+   "portconfig": [
+       {
+           "name":"Node1",
+           "port":0,
+           "describe":"GoodWe 5K",
+           "type":"INV",
+           "protocol":"Goodwe_v8",
+           "other":""
+       },
+       {
+        "name":"Node2",
+        "port":1,
+        "describe":"Load 5,000kwp",
+        "type":"Load",
+        "protocol":"Switch1",
+        "other":""
+        }
+   ]
+}
